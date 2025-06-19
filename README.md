@@ -52,7 +52,7 @@ The Gold layer models a star schema optimized for analytics and dashboarding. It
 | `dim_providers`        | Dimension    | Provider metadata with specialty and location                               |
 | `dim_organizations`    | Dimension    | Organization metadata with location and geographic identifiers              |
 
-<img src = "https://github.com/sarahrosegallagher/dbx-powerbi-health-project/imgs/gold_schema.png" width="600">
+<img src = "https://raw.githubusercontent.com/sarahrosegallagher/dbx-powerbi-health-project/refs/heads/main/imgs/gold_schema.png" width="600">
 
 
 ---
